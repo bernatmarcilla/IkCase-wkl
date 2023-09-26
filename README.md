@@ -31,4 +31,4 @@ Note that this case has been developed for a PCB that has the **USB underneath o
 
 ## Final Prototype
 
-![IkCase-hhkb](./Renders/4.png)
+![IkCase-hhkb](./renders/4.png)
